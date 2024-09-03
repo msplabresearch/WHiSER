@@ -1,3 +1,5 @@
+WHiSER Corpus
+Wav files available at https://www.lab-msp.com/WHiSER/
 
 The Annotation folder includes:
 	- readme.txt (this file)
